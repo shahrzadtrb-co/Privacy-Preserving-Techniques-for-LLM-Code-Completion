@@ -1,6 +1,6 @@
 # Privacy Utility Tradeoff in Code Completion
 
-This project analyzes the privacy utility tradeoff in code completion as part of an application for the JetBrains internship program in Europe. The study uses the first 20 tasks from the HumanEval dataset and evaluates how different levels of prompt obfuscation affect code generation quality.
+This project analyzes the privacy utility tradeoff in code completion . The study uses the first 20 tasks from the HumanEval dataset and evaluates how different levels of prompt obfuscation affect code generation quality.
 
 ## Overview
 
