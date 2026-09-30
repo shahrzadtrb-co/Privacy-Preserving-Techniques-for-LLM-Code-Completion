@@ -2,6 +2,7 @@
 
 If you hide sensitive parts of your code before sending it to a code-completion model, how much worse do the completions get? This project measures that trade-off on 20 HumanEval tasks with CodeT5.
 
+![Privacy vs. utility for all 60 completions](privacy_utility.png)
 
 ## Setup
 
